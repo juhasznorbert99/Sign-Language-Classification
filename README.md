@@ -1,0 +1,3 @@
+Conceptualized and implemented a real-time sign language alphabetclassification project, leveraging a dynamic tech stack encompassing Python, OpenCV, MediaPipe, and a powerful Convolutional Neural Network (CNN) with Long Short-Term Memory (LSTM).
+
+Curated and crafted a comprehensive dataset tailored to each letter of the signlanguage alphabet. This meticulous dataset served as the backbone for trainingthe CNN, ensuring a nuanced understanding of intricate patterns associatedwith diverse sign language gestures. This experience solidified my expertise in data preparation and machine learning model training.
